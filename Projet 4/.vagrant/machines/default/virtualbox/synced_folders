@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"create":true,"disabled":false,"owner":"www-data","group":"www-data","mount_options":["dmode=775,fmode=664","uid=33","gid=33","_netdev"],"guestpath":"/var/www","hostpath":"D:/web dessin/Projet 4","__vagrantfile":true}}}
