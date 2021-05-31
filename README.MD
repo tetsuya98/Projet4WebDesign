@@ -27,6 +27,7 @@ Logiciel à installer au préalable
 
 ### VirtualBox
 Télécharger VirtualBox : https://www.virtualbox.org
+
 Une installation de VirtualBox avec une version 6.x ou ultérieure est requise.
 
 ### Desactiver Hyper-V
@@ -48,6 +49,7 @@ Lancez phpMyAdmin sur votre serveur Wamp.
 Par défaut, sous Wamp :
 - Utilisateur : root
 - Mot de passe : (aucun)
+
 Si vous n’avez pas de mot de passe, créez-en un.
 
 ### Importer la BD
